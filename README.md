@@ -11,4 +11,4 @@ After some trial and error, I realized that, in macOS, if I copied and pasted in
 
 This didn't work in iOS, at least not with the only rich text editors I had, Scrivener and Word. Fortunately I had just been catching up on the Canvas podcast and remembered the recommendation to use the content graph and quick look to see what a share sheet was outputting.  Alas, it was plain text. But when I selected text in Notes and copied it, rather than using the share sheet or the share popup on a selection, it was rich text. From there it was a matter of piping it out to Workflow's *make Markdown from rich text* action, then back to the clipboard.
 
-![get clipboard->make Markdown from rich text->set clipboard](https://github.com/derickfay/Apple-Notes-export-with-links/blob/master/IMG_6248.PNG)
+![get clipboard->make Markdown from rich text->set clipboard](https://github.com/derickfay/Apple-Notes-export-with-links/blob/master/IMG_6248.png)
