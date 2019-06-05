@@ -1,6 +1,8 @@
 # Apple Notes export with links
 Export from Apple Notes on macOS and iOS while preserving URLs 
 
+Update (2019-06-04): Copying from Notes and pasting in Ulysses keeps embedded notes now (on Mojave) so the MacOS part of this is no longer necessary.
+
 I had created a long Apple note with a bunch of embedded links.  So many in fact that I wanted to break the document up into a bunch of sub-documents.  I figured I would just copy and paste into Ulysses, and split there.  No luck: the text that was pasted came in as plain text, with just the titles of the links and no URLs.  On both macOS and iOS.
 
 I looked around in Notes' AppleScript but the URLs for my links didn't appear in the html source for the note or in any of the attachments (at least not in a way that was exposed to AppleScript).
